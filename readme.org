@@ -1,48 +1,119 @@
 #+TITLE: Intro to Coffee Roasting & Tasting
 
-Description of class:
+This material is part of a [[makehaven.org][MakeHaven]] event on <2022-11-27 Sun 14:00>.
 
-Darkly colored, bitter, and slightly acidic, coffee is the most
-popular drink in the world. The earliest credible evidence of coffee
-drinking in the form of the modern beverage appears in modern-day
-Yemen from the mid-15th century in Sufi shrines, where coffee seeds
-were first roasted and brewed in a manner similar to current methods.
+In the event we will learn how to roast your own coffee beans on our
+[[https://www.makehaven.org/i/7944][Behmor Coffee Roaster]] as well as normal machine cleaning and
+maintenance.
 
-In this 3-hr class you will learn how to roast your own coffee beans
-on our Behmor Coffee Roaster as well as normal machine cleaning and
-maintenance. Try 5 different types of freshly roasted coffee and take
-home 1/2 pound of ready-to-grind beans.  No experience necessary. For
-members who have completed the online portion of the coffee roasting
-badge, this class will include facilitator check-out.
+We will also try 5 different types of coffee and take home samples of
+freshly roasted coffee. No experience necessary. For members who have
+completed the [[https://www.makehaven.org/i/7944][online portion]] of the coffee roasting badge, this event
+will serve as the facilitator check-out, so you will get the badge at
+the end.
 
-Join us for an afternoon of coffee roasting & tasting!
+* Roasting
 
-* Coffees
+Try to keep it simple. Vary only one variable at a time. For our
+tasting I kept all variables in the roasting the same, and just
+changed the type of bean. The time to first crack varies substantially
+per coffee type:
 
-| Label | Name                      | Origin                          | Bean type          | Height (masl) | Processing | Profile | Time to first crack  | Left after | roast/green |
-|-------+---------------------------+---------------------------------+--------------------+---------------+------------+---------+----------------------+------------+-------------|
-| A     | El Conquistador           | Costa Rica, Tarrazú             | Caturra/Catuai     |     1200-1900 | Washed     | P4      | 14'24"               | 40"        |        0.88 |
-| B     | Kona Extra Fancy          | Hawaii, Mauka Honaunau District | Kona               |           600 | Washed     | P4      | 11'33"               | 40"        |        0.88 |
-| C     | Jason Farms Geisha Washed | Panama, Volcan High Lands       | Geisha             |     1350-1700 | Washed     | P4      | 11'26"               | 40"        |        0.88 |
-| D     | Kintanamani               | Bali, Kintamani Highlands       | Bourbon            |     1200-1600 | Natural    | P4      | 12'50                | 40"        |        0.86 |
-| E     | Konga G1                  | Ethiopia, Yirgacheffe           | Ethiopian Heirloom |     1850-2100 | Washed     | P4      | 12'32" (very slight) | 40"        |        0.89 |
+| Label | Initial weight             | Preheat | Profile used | Time to first crack  | Left after first crack | roast/green |
+|-------+----------------------------+---------+--------------+----------------------+------------------------+-------------|
+| A     | ~1/4 lb (really 120 grams) | 1'      | P4           | 14'24"               | 40"                    |        0.88 |
+| B     | ~1/4 lb (really 120 grams) | 1'      | P4           | 11'33"               | 40"                    |        0.88 |
+| C     | ~1/4 lb (really 120 grams) | 1'      | P4           | 11'26"               | 40"                    |        0.88 |
+| D     | ~1/4 lb (really 120 grams) | 1'      | P4           | 12'50                | 40"                    |        0.86 |
+| E     | ~1/4 lb (really 120 grams) | 1'      | P4           | 12'32" (very slight) | 40"                    |        0.89 |
 
-** Introduction
+Pressing "C" after first roast gives an estimate of the time to second
+crack. The closer to second crack the darker the roast.
 
-** Preparing
+For in more information consult the [[file:Behmor 2000AB 120v Operation Manual V25.2 7.12.2021 BW Inspired.pdf][manual of the roaster]].
 
-*** Importance of weighing
+The coffee loses weight after roasting, the ratio of the weight of
+roasted coffee to green coffee varies per coffee type:
 
-Compare one table spoon of two types of beans
+| Label | weight roasted / weight green |
+|-------+-------------------------------|
+| A     |                          0.88 |
+| B     |                          0.88 |
+| C     |                          0.88 |
+| D     |                          0.86 |
+| E     |                          0.89 |
 
-** Tasting
+Coffee needs to "degass" to get a great flavor. A light roast flavor
+peaks at around 10 days after roasting. Darker roasts need to degass
+less. Leave the coffee not covered for at least a day after roasting.
+
+* Preparing
+
+We will keep it simple here too. We focus on only one easy but great
+method (french press).
+
+Pick a ratio of coffee to water (measured by weight). I use 1:16 (it
+is on the strong side, but it is easy to multiply 2).
+
+Be patient: let the coffee brew for some 8 minutes before trying it.
+
+Water temperature does not matter (as long as it is hot), you cannot
+really burn the coffee. But you can burn your tongue, so better to
+start at around 200° Fahrenheit so that it is "cold" enough to try
+after 10 minutes brewing.
+
+* Tasting
 
 Try to look for
 
-- Bitterness
-- Brightness/acidity
-- Sweetness (between sweet and tart)
+- Bitterness: any "regular" coffee vs any coffee tried here
+- Brightness (acidity): E vs F
+- Sweetness (between tart and sweet) A vs C
+- Aroma: B vs D
+- Body: A vs B
+- Complexity/Balance
+- Flavors:
+  + Chocolaty
+  + Nutty
+  + Buttery
+  + Flowery
+  + Wine
+  + Earthy
+  + Fruitty (all)
+  + Spicy (none?)
 
+** Coffee scores (according to Coffee Bean Corral)
+
+| Label | Brightness | Body | Aroma | Complexity | Balance | Sweetness | Spicy | Chocolaty | Nutty  | Buttery  | Fruitty | Flowery | Wine     | Earthy |
+|-------+------------+------+-------+------------+---------+-----------+-------+-----------+--------+----------+---------+---------+----------+--------|
+| A     |          6 |    4 |     5 |          4 |       5 |         4 |       | Strong    | Strong |          | Strong  |         |          | Slight |
+| B     |          5 |    4 |     7 |          6 |       6 |         4 |       | Strong    | Strong | Strong   | Strong  | Slight  |          |        |
+| C     |          6 |    5 |     5 |          6 |       5 |         7 |       | Moderate  |        | Slight   | Strong  | Strong  |          |        |
+| D     |          6 |    7 |     4 |          6 |       4 |         7 |       |           |        | Strong   | Strong  |         | Moderate | Strong |
+| E     |          5 |    4 |     4 |          5 |       6 |         4 |       | Strong    |        |          | Strong  | Strong  |          | Strong |
+| F     |          7 |    4 |     5 |          4 |       5 |         6 |       | Moderate  | Slight | Moderate | Strong  |         |          |        |
+
+** Coffee labels and notes
+
+| Label | Name                      | Origin                          | Bean type          | Height (masl) | Processing |
+|-------+---------------------------+---------------------------------+--------------------+---------------+------------|
+| A     | El Conquistador           | Costa Rica, Tarrazú             | Caturra/Catuai     |     1200-1900 | Washed     |
+| B     | Kona Extra Fancy          | Hawaii, Mauka Honaunau District | Kona               |           600 | Washed     |
+| C     | Jason Farms Geisha Washed | Panama, Volcan High Lands       | Geisha             |     1350-1700 | Washed     |
+| D     | Kintanamani               | Bali, Kintamani Highlands       | Bourbon            |     1200-1600 | Natural    |
+| E     | Konga G1                  | Ethiopia, Yirgacheffe           | Ethiopian Heirloom |     1850-2100 | Washed     |
+| F     | Finca La Esperanza        | El Salvador, Santa Ana          | Bourbon            |     1372-1500 | Washed     |
+
+- Costa Rica: El Conquistador, Tarrazu
+
+This Costa Rican coffee bean has the fruity, nutty characteristics
+that make this region's coffees famous.
+
+- Hawaii: Kona Extra Fancy, Mauku Honaunau District
+
+This is the highest grade of Kona Coffee available and produces a
+smooth, bold, rich flavor and an aroma that is truly and utterly
+unforgettable.
 
 - Panama: Janson Farms Geisha, Volcan High Lands
 
@@ -55,43 +126,12 @@ blueberry!
 Lots of Body with very high acidity with notes of Strawberry,
 Watermelon, Papaya and Cane Sugar giving it a very sweet taste.
 
-- Costa Rica: El Conquistador, Tarrazu
-
-This Costa Rican coffee bean has the fruity, nutty characteristics
-that make this region’s coffees famous. Try before you stock up with a
-1/2 pound sample!
-
 - Ethiopia: Organic Konga G1, Yirgacheffe
 
 The Ethiopian Yirgacheffe has floral and fruit notes like pear and
 citrus and sweet honey.
 
-- Hawaii: Kona Extra Fancy, Mauku Honaunau District
+- El Salvador: Finca La Esperanza, Santa Ana
 
-This is the highest grade of Kona Coffee available and produces a
-smooth, bold, rich flavor and an aroma that is truly and utterly
-unforgettable.
-
-** Where to buy green beans
-
-https://www.coffeebeancorral.com (20% tomorrow for Cyber Monday)
-https://www.sweetmarias.com/
-
-** Scale recommended
-
-SC Series Precision Digital Kitchen Weight Scale, Food Measuring
-Scale, 2kg x 0.1g (Silver), AMW-SC-2KG ($34)
-
-https://smile.amazon.com/gp/product/B001RF3XJ2
-
-** French presses
-
-One cup: MIRA 12 oz French Press ($23)
-https://www.mirabrands.com/products/12-oz-french-press
-
-They also have 20 oz and 34 oz
-
-Huge: SterlingPro French Press (1.75L/60 oz)
-https://smile.amazon.com/gp/product/B014U0ZNG6
-
-All stainless steel are pretty much the same.
+Brown sugar, cherry, and green apple with hints of chocolate and a
+high acidity, medium body, and above average sweetness.
