@@ -9,8 +9,8 @@ maintenance.
 We will also try 5 different types of coffee and take home samples of
 freshly roasted coffee. No experience necessary. For members who have
 completed the [[https://www.makehaven.org/i/7944][online portion]] of the coffee roasting badge, this event
-will serve as the facilitator check-out, so you will get the badge at
-the end.
+will serve as the facilitator check-out, so you will get the badge for
+the Behmor at the end.
 
 * Roasting
 
@@ -19,13 +19,13 @@ tasting I kept all variables in the roasting the same, and just
 changed the type of bean. The time to first crack varies substantially
 per coffee type:
 
-| Label | Initial weight             | Preheat | Profile used | Time to first crack  | Left after first crack | roast/green |
-|-------+----------------------------+---------+--------------+----------------------+------------------------+-------------|
-| A     | ~1/4 lb (really 120 grams) | 1'      | P4           | 14'24"               | 40"                    |        0.88 |
-| B     | ~1/4 lb (really 120 grams) | 1'      | P4           | 11'33"               | 40"                    |        0.88 |
-| C     | ~1/4 lb (really 120 grams) | 1'      | P4           | 11'26"               | 40"                    |        0.88 |
-| D     | ~1/4 lb (really 120 grams) | 1'      | P4           | 12'50                | 40"                    |        0.86 |
-| E     | ~1/4 lb (really 120 grams) | 1'      | P4           | 12'32" (very slight) | 40"                    |        0.89 |
+| Label | Weight setting | Preheat | Profile used | Time to first crack  | Left after first crack | roast/green |
+|-------+----------------+---------+--------------+----------------------+------------------------+-------------|
+| A     | 1/4 lb         | 1'      | P4           | 14'24"               | 40"                    |        0.88 |
+| B     | 1/4 lb         | 1'      | P4           | 11'33"               | 40"                    |        0.88 |
+| C     | 1/4 lb         | 1'      | P4           | 11'26"               | 40"                    |        0.88 |
+| D     | 1/4 lb         | 1'      | P4           | 12'50                | 40"                    |        0.86 |
+| E     | 1/4 lb         | 1'      | P4           | 12'32" (very slight) | 40"                    |        0.89 |
 
 Pressing "C" after first roast gives an estimate of the time to second
 crack. The closer to second crack the darker the roast.
@@ -35,17 +35,26 @@ For in more information consult the [[file:Behmor 2000AB 120v Operation Manual V
 The coffee loses weight after roasting, the ratio of the weight of
 roasted coffee to green coffee varies per coffee type:
 
-| Label | weight roasted / weight green |
-|-------+-------------------------------|
-| A     |                          0.88 |
-| B     |                          0.88 |
-| C     |                          0.88 |
-| D     |                          0.86 |
-| E     |                          0.89 |
+| Label | Initial weight | weight roasted / weight green | Roasted weight |
+|-------+----------------+-------------------------------+----------------|
+| A     | 120 grams      |                          0.88 | 105.6 grams    |
+| B     | 120 grams      |                          0.88 | 105.6 grams    |
+| C     | 120 grams      |                          0.88 | 105.6 grams    |
+| D     | 120 grams      |                          0.86 | 103.2 grams    |
+| E     | 120 grams      |                          0.89 | 106.8 grams    |
 
-Coffee needs to "degass" to get a great flavor. A light roast flavor
-peaks at around 10 days after roasting. Darker roasts need to degass
-less. Leave the coffee not covered for at least a day after roasting.
+This important if you will try to plan ahead for much you will
+consume. The 120 grams will make about 6.5 cups of coffee.
+
+Coffee needs to "degas" to get a great flavor. A light roast flavor
+peaks at around 10 days after roasting. Darker roasts need to degas
+for less time. Leave the coffee not covered for at least a day after
+roasting.
+
+** Where to buy green beans
+
+https://www.coffeebeancorral.com (20% tomorrow for Cyber Monday)
+https://www.sweetmarias.com/
 
 * Preparing
 
@@ -53,14 +62,41 @@ We will keep it simple here too. We focus on only one easy but great
 method (french press).
 
 Pick a ratio of coffee to water (measured by weight). I use 1:16 (it
-is on the strong side, but it is easy to multiply 2).
+is on the strong side, but that's better IMO and it is easy to
+multiply 2).
 
-Be patient: let the coffee brew for some 8 minutes before trying it.
+Be patient: let the coffee brew for about 8 minutes before trying it.
 
 Water temperature does not matter (as long as it is hot), you cannot
 really burn the coffee. But you can burn your tongue, so better to
 start at around 200° Fahrenheit so that it is "cold" enough to try
 after 10 minutes brewing.
+
+** Equipment
+
+*** Scale recommended
+
+SC Series Precision Digital Kitchen Weight Scale, Food Measuring
+Scale, 2kg x 0.1g (Silver), AMW-SC-2KG ($34)
+
+https://smile.amazon.com/gp/product/B001RF3XJ2
+
+*** French presses
+
+One cup: MIRA 12 oz French Press ($23)
+https://www.mirabrands.com/products/12-oz-french-press
+
+They also have 20 oz and 34 oz
+
+Huge: SterlingPro French Press (1.75L/60 oz)
+https://smile.amazon.com/gp/product/B014U0ZNG6
+
+All stainless steel presses that I have seen are pretty much the same.
+
+*** Grinders
+
+Large, fast and fits mason jars: Hario Ceramic Coffee Mill - 'Skerton
+Plus' https://smile.amazon.com/gp/product/B01LXZACFB/
 
 * Tasting
 
@@ -81,57 +117,3 @@ Try to look for
   + Earthy
   + Fruitty (all)
   + Spicy (none?)
-
-** Coffee scores (according to Coffee Bean Corral)
-
-| Label | Brightness | Body | Aroma | Complexity | Balance | Sweetness | Spicy | Chocolaty | Nutty  | Buttery  | Fruitty | Flowery | Wine     | Earthy |
-|-------+------------+------+-------+------------+---------+-----------+-------+-----------+--------+----------+---------+---------+----------+--------|
-| A     |          6 |    4 |     5 |          4 |       5 |         4 |       | Strong    | Strong |          | Strong  |         |          | Slight |
-| B     |          5 |    4 |     7 |          6 |       6 |         4 |       | Strong    | Strong | Strong   | Strong  | Slight  |          |        |
-| C     |          6 |    5 |     5 |          6 |       5 |         7 |       | Moderate  |        | Slight   | Strong  | Strong  |          |        |
-| D     |          6 |    7 |     4 |          6 |       4 |         7 |       |           |        | Strong   | Strong  |         | Moderate | Strong |
-| E     |          5 |    4 |     4 |          5 |       6 |         4 |       | Strong    |        |          | Strong  | Strong  |          | Strong |
-| F     |          7 |    4 |     5 |          4 |       5 |         6 |       | Moderate  | Slight | Moderate | Strong  |         |          |        |
-
-** Coffee labels and notes
-
-| Label | Name                      | Origin                          | Bean type          | Height (masl) | Processing |
-|-------+---------------------------+---------------------------------+--------------------+---------------+------------|
-| A     | El Conquistador           | Costa Rica, Tarrazú             | Caturra/Catuai     |     1200-1900 | Washed     |
-| B     | Kona Extra Fancy          | Hawaii, Mauka Honaunau District | Kona               |           600 | Washed     |
-| C     | Jason Farms Geisha Washed | Panama, Volcan High Lands       | Geisha             |     1350-1700 | Washed     |
-| D     | Kintanamani               | Bali, Kintamani Highlands       | Bourbon            |     1200-1600 | Natural    |
-| E     | Konga G1                  | Ethiopia, Yirgacheffe           | Ethiopian Heirloom |     1850-2100 | Washed     |
-| F     | Finca La Esperanza        | El Salvador, Santa Ana          | Bourbon            |     1372-1500 | Washed     |
-
-- Costa Rica: El Conquistador, Tarrazu
-
-This Costa Rican coffee bean has the fruity, nutty characteristics
-that make this region's coffees famous.
-
-- Hawaii: Kona Extra Fancy, Mauku Honaunau District
-
-This is the highest grade of Kona Coffee available and produces a
-smooth, bold, rich flavor and an aroma that is truly and utterly
-unforgettable.
-
-- Panama: Janson Farms Geisha, Volcan High Lands
-
-Balanced, juicy, crisp, mild, and smooth with flavor notes of milk
-chocolate, caramel, orange blossom, lemon, black cherry, and
-blueberry!
-
-- Bali: Organic Kintamani, Kintamani Highlands
-
-Lots of Body with very high acidity with notes of Strawberry,
-Watermelon, Papaya and Cane Sugar giving it a very sweet taste.
-
-- Ethiopia: Organic Konga G1, Yirgacheffe
-
-The Ethiopian Yirgacheffe has floral and fruit notes like pear and
-citrus and sweet honey.
-
-- El Salvador: Finca La Esperanza, Santa Ana
-
-Brown sugar, cherry, and green apple with hints of chocolate and a
-high acidity, medium body, and above average sweetness.
