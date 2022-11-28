@@ -6,8 +6,9 @@ In this event we will learn how to roast your own coffee beans on our
 [[https://www.makehaven.org/i/7944][Behmor Coffee Roaster]] as well as normal machine cleaning and
 maintenance.
 
-We will also taste 5 different types of coffee, blinding them and just
-referring to them by labels (A, B, C, D, E ).
+We will also taste and compare 5 different types of coffee, blinding
+them and just referring to them by labels (A, B, C, D, E) until the
+end of the event.
 
 At the end of the event we will take home samples of freshly roasted
 coffee.
@@ -190,10 +191,10 @@ Try to look for
 | E     |          5 |    4 |     4 |          5 |       6 |         4 |       | Strong    |        |          | Strong  | Strong  |          | Strong |
 | F     |          7 |    4 |     5 |          4 |       5 |         6 |       | Moderate  | Slight | Moderate | Strong  |         |          |        |
 
-Scale is out of 7. Coffee F was not bought for the class, it was that
-I had for myself, but it is pretty "bright" so it made for a good
-comparison. Attendants of the class did not get to take samples of
-that one home.
+Scale is out of 7. Coffee F was not bought for the class, it was one
+that I had roasted for myself, but it is pretty "bright" so it made
+for a good comparison. Attendants of the class did not get to take
+samples of that one home.
 
 * Un-blinding the coffees
 
