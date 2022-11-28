@@ -37,9 +37,9 @@ button or the "C" button) while roasting.
 
 Pressing "C" after first roast gives an estimate of the time to second
 crack. *This is the most important part of the roasting*. The closer
-to second crack the darker the roast. A little roast is activating the
-cooling at about 40 seconds after the first crack. But this time
-varies per bean type.
+to second crack the darker the roast. A light roast was obtained by
+activating the cooling at about 40 seconds after the first crack. But
+this time can vary per bean type.
 
 If you reduce the heat right after the first crack (pressing P3 or P4
 to set the power to 50% or 75%), you can extend the time to second
