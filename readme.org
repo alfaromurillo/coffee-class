@@ -2,15 +2,19 @@
 
 This material is part of a [[makehaven.org][MakeHaven]] event on <2022-11-27 Sun 14:00>.
 
-In the event we will learn how to roast your own coffee beans on our
+In this event we will learn how to roast your own coffee beans on our
 [[https://www.makehaven.org/i/7944][Behmor Coffee Roaster]] as well as normal machine cleaning and
 maintenance.
 
-We will also try 5 different types of coffee and take home samples of
-freshly roasted coffee. No experience necessary. For members who have
-completed the [[https://www.makehaven.org/i/7944][online portion]] of the coffee roasting badge, this event
-will serve as the facilitator check-out, so you will get the badge for
-the Behmor at the end.
+We will also taste 5 different types of coffee, blinding them and just
+referring to them by labels (A, B, C, D, E ).
+
+At the end of the event we will take home samples of freshly roasted
+coffee.
+
+For MakeHaven members who have completed the [[https://www.makehaven.org/i/7944][online portion]] of the
+coffee roasting badge, this event will serve as the facilitator
+check-out, so you will get the badge for the Behmor at the end.
 
 * Roasting
 
@@ -19,29 +23,45 @@ tasting I kept all variables in the roasting the same, and just
 changed the type of bean. The time to first crack varies substantially
 per coffee type:
 
-| Label | Weight setting | Preheat | Profile used | Time to first crack  | Left after first crack | roast/green |
-|-------+----------------+---------+--------------+----------------------+------------------------+-------------|
-| A     | 1/4 lb         | 1'      | P4           | 14'24"               | 40"                    |        0.88 |
-| B     | 1/4 lb         | 1'      | P4           | 11'33"               | 40"                    |        0.88 |
-| C     | 1/4 lb         | 1'      | P4           | 11'26"               | 40"                    |        0.88 |
-| D     | 1/4 lb         | 1'      | P4           | 12'50                | 40"                    |        0.86 |
-| E     | 1/4 lb         | 1'      | P4           | 12'32" (very slight) | 40"                    |        0.89 |
+| Label | Weight setting | Preheat | Profile used | Time to first crack | Left after first crack |
+|-------+----------------+---------+--------------+---------------------+------------------------|
+| A     | 1/4 lb         | 1 min   | P4           |               14:24 | 40 sec                 |
+| B     | 1/4 lb         | 1 min   | P4           |               11:33 | 40 sec                 |
+| C     | 1/4 lb         | 1 min   | P4           |               11:26 | 40 sec                 |
+| D     | 1/4 lb         | 1 min   | P4           |               12:50 | 40 sec                 |
+| E     | 1/4 lb         | 1 min   | P4           | 12:32 (very slight) | 40 sec                 |
+
+Notice that in all cases the time to first crack was more than the
+default time for the profile so I had to add more time (with the +
+button or the "C" button) while roasting.
 
 Pressing "C" after first roast gives an estimate of the time to second
-crack. The closer to second crack the darker the roast.
+crack. *This is the most important part of the roasting*. The closer
+to second crack the darker the roast. A little roast is activating the
+cooling at about 40 seconds after the first crack. But this time
+varies per bean type.
 
-For in more information consult the [[file:Behmor 2000AB 120v Operation Manual V25.2 7.12.2021 BW Inspired.pdf][manual of the roaster]].
+If you reduce the heat right after the first crack (pressing P3 or P4
+to set the power to 50% or 75%), you can extend the time to second
+crack (might even need to press "+" or "C" again). If you extend the
+time by reducing the heat after first crack, your coffee would gain in
+"sweetness" but lose in "brightness".
+
+If you are roasting a type of coffee for the first time, be at the
+machine from the time that it starts beeping for the first time.
+
+For more information on settings consult the [[file:behmor_manual.pdf][manual of the roaster]].
 
 The coffee loses weight after roasting, the ratio of the weight of
 roasted coffee to green coffee varies per coffee type:
 
-| Label | Initial weight | weight roasted / weight green | Roasted weight |
-|-------+----------------+-------------------------------+----------------|
-| A     | 120 grams      |                          0.88 | 105.6 grams    |
-| B     | 120 grams      |                          0.88 | 105.6 grams    |
-| C     | 120 grams      |                          0.88 | 105.6 grams    |
-| D     | 120 grams      |                          0.86 | 103.2 grams    |
-| E     | 120 grams      |                          0.89 | 106.8 grams    |
+| Label | Initial weight | Roasted weight | weight roasted / weight green |
+|-------+----------------+----------------+-------------------------------|
+| A     | 120 grams      | 105.6 grams    |                          0.88 |
+| B     | 120 grams      | 105.6 grams    |                          0.88 |
+| C     | 120 grams      | 105.6 grams    |                          0.88 |
+| D     | 120 grams      | 103.2 grams    |                          0.86 |
+| E     | 120 grams      | 106.8 grams    |                          0.89 |
 
 This important if you will try to plan ahead for much you will
 consume. The 120 grams will make about 6.5 cups of coffee.
@@ -53,60 +73,101 @@ roasting.
 
 ** Where to buy green beans
 
-https://www.coffeebeancorral.com (20% tomorrow for Cyber Monday)
-https://www.sweetmarias.com/
+- https://www.coffeebeancorral.com (20% tomorrow for Cyber Monday)
+- https://www.sweetmarias.com/
 
 * Preparing
 
 We will keep it simple here too. We focus on only one easy but great
 method (french press).
 
-Pick a ratio of coffee to water (measured by weight). I use 1:16 (it
+Pick a ratio of coffee to water (measured by weight). I use *1:16* (it
 is on the strong side, but that's better IMO and it is easy to
-multiply 2).
+multiply 2, 4 times).
 
-Be patient: let the coffee brew for about 8 minutes before trying it.
+Grind your coffee just before preparing it. The worst you can do is
+grind a bunch for a couple of days.
 
 Water temperature does not matter (as long as it is hot), you cannot
 really burn the coffee. But you can burn your tongue, so better to
 start at around 200° Fahrenheit so that it is "cold" enough to try
 after 10 minutes brewing.
 
+After adding the water, be patient: let the coffee brew for about 8
+minutes before trying it. In between, around 4 minutes, I like to
+break the coffee to expose the coffee at the top to more water and so
+that the big grounds go to the bottom. You can then choose to remove
+the big grounds (more expensive grinders would have more consistency,
+so less of those) that are still floating with a spoon. Then wait
+another 4-5 minutes without touching the coffee, so that it settles.
+
+When you push the filter do it slowly and do not press it all the way,
+so that you do not mix the grounds that are on the bottom. That way
+there are less likely to end up in the coffee. For the same reason,
+pour the coffee slowly.
+
 ** Equipment
 
 *** Scale recommended
 
-SC Series Precision Digital Kitchen Weight Scale, Food Measuring
-Scale, 2kg x 0.1g (Silver), AMW-SC-2KG ($34)
-
-https://smile.amazon.com/gp/product/B001RF3XJ2
+- SC Series Precision Digital Kitchen Weight Scale
+  https://smile.amazon.com/gp/product/B001RF3XJ2
 
 *** French presses
 
-One cup: MIRA 12 oz French Press ($23)
-https://www.mirabrands.com/products/12-oz-french-press
+- One cup: MIRA 12 oz French Press ($23)
+  https://www.mirabrands.com/products/12-oz-french-press
 
-They also have 20 oz and 34 oz
+  MIRA also has 20 oz and 34 oz. We used a couple of MIRA presses for
+  the event.
 
-Huge: SterlingPro French Press (1.75L/60 oz)
-https://smile.amazon.com/gp/product/B014U0ZNG6
+- Largest press that I have found: SterlingPro French Press (1.75L/60
+  oz) https://smile.amazon.com/gp/product/B014U0ZNG6
 
-All stainless steel presses that I have seen are pretty much the same.
+  All stainless steel presses that I have tried are very similar. I
+  like stainless steel because they last a lifetime and because they
+  keep the heat very well.
 
 *** Grinders
 
-Large, fast and fits mason jars: Hario Ceramic Coffee Mill - 'Skerton
-Plus' https://smile.amazon.com/gp/product/B01LXZACFB/
+Good video: https://www.youtube.com/watch?v=bgjvLQu5NlE
+
+**** Hand grinders
+
+- Small (for one person), very good for traveling: Porlex Mini
+  Stainless Steel Coffee Grinder
+  https://www.porlexgrinders.com/products/porlex-mini-grinder-ii
+
+- Small, better (but more expensive) than previous one:
+  Knock Aergrind https://madebyknock.com/products/aergrind
+
+- Large, OK (but not great) for french press, fast and bottom
+  container fits mason: Hario Ceramic Coffee Mill - 'Skerton Plus'
+  https://www.hario-usa.com/products/ceramic-coffee-mill-skerton-plus
+
+- Premium, can do even espresso: Kinu M47 Classic
+  https://kinugrinders.com/product/m47-classic/
+
+Premium grinders have stainless steel burrs (instead of ceramic), so
+they will last longer.
+
+**** Electric grinders
+
+- Do not buy any with blades instead of burr, the grind would be very
+  inconsistent. Better a cheap hand grinder than electric grinders.
+- Entry level, same that we have at MakeHaven (OK for french press,
+  not good for espresso): Baratza Encore Coffee Mill
+  https://www.willoughbyscoffee.com/MPS.html
 
 * Tasting
 
 Try to look for
 
-- Bitterness: any "regular" coffee vs any coffee tried here
+- Bitterness: any "regular" coffee vs any coffee tried at the event
 - Brightness (acidity): E vs F
 - Sweetness (between tart and sweet) A vs C
 - Aroma: B vs D
-- Body: A vs B
+- Body: A vs D
 - Complexity/Balance
 - Flavors:
   + Chocolaty
@@ -115,5 +176,72 @@ Try to look for
   + Flowery
   + Wine
   + Earthy
-  + Fruitty (all)
+  + Fruity (all)
   + Spicy (none?)
+
+** Coffee scores (according to Coffee Bean Corral)
+
+| Label | Brightness | Body | Aroma | Complexity | Balance | Sweetness | Spicy | Chocolaty | Nutty  | Buttery  | Fruity  | Flowery | Wine     | Earthy |
+|-------+------------+------+-------+------------+---------+-----------+-------+-----------+--------+----------+---------+---------+----------+--------|
+| A     |          6 |    4 |     5 |          4 |       5 |         4 |       | Strong    | Strong |          | Strong  |         |          | Slight |
+| B     |          5 |    4 |     7 |          6 |       6 |         4 |       | Strong    | Strong | Strong   | Strong  | Slight  |          |        |
+| C     |          6 |    5 |     5 |          6 |       5 |         7 |       | Moderate  |        | Slight   | Strong  | Strong  |          |        |
+| D     |          6 |    7 |     4 |          6 |       4 |         7 |       |           |        | Strong   | Strong  |         | Moderate | Strong |
+| E     |          5 |    4 |     4 |          5 |       6 |         4 |       | Strong    |        |          | Strong  | Strong  |          | Strong |
+| F     |          7 |    4 |     5 |          4 |       5 |         6 |       | Moderate  | Slight | Moderate | Strong  |         |          |        |
+
+Scale is out of 7. Coffee F was not bought for the class, it was that
+I had for myself, but it is pretty "bright" so it made for a good
+comparison. Attendants of the class did not get to take samples of
+that one home.
+
+* Un-blinding the coffees
+
+| Label | Name                      | Origin                          | Bean type          | Height (masl) | Processing |
+|-------+---------------------------+---------------------------------+--------------------+---------------+------------|
+| A     | El Conquistador           | Costa Rica, Tarrazú             | Caturra/Catuai     |     1200-1900 | Washed     |
+| B     | Kona Extra Fancy          | Hawaii, Mauka Honaunau District | Kona               |           600 | Washed     |
+| C     | Jason Farms Geisha Washed | Panama, Volcan High Lands       | Geisha             |     1350-1700 | Washed     |
+| D     | Kintanamani               | Bali, Kintamani Highlands       | Bourbon            |     1200-1600 | Natural    |
+| E     | Konga G1                  | Ethiopia, Yirgacheffe           | Ethiopian Heirloom |     1850-2100 | Washed     |
+| F     | Finca La Esperanza        | El Salvador, Santa Ana          | Bourbon            |     1372-1500 | Washed     |
+
+- Costa Rica: El Conquistador, Tarrazu
+
+  This Costa Rican coffee bean has the fruity, nutty characteristics
+  that make this region's coffees famous.
+
+- Hawaii: Kona Extra Fancy, Mauku Honaunau District
+
+  This is the highest grade of Kona Coffee available and produces a
+  smooth, bold, rich flavor and an aroma that is truly and utterly
+  unforgettable.
+
+- Panama: Janson Farms Geisha, Volcan High Lands
+
+  Balanced, juicy, crisp, mild, and smooth with flavor notes of milk
+  chocolate, caramel, orange blossom, lemon, black cherry, and
+  blueberry!
+
+- Bali: Organic Kintamani, Kintamani Highlands
+
+  Lots of Body with very high acidity with notes of Strawberry,
+  Watermelon, Papaya and Cane Sugar giving it a very sweet taste.
+
+- Ethiopia: Organic Konga G1, Yirgacheffe
+
+  The Ethiopian Yirgacheffe has floral and fruit notes like pear and
+  citrus and sweet honey.
+
+- El Salvador: Finca La Esperanza, Santa Ana
+
+  Brown sugar, cherry, and green apple with hints of chocolate and a
+  high acidity, medium body, and above average sweetness.
+
+* Changes suggested for next event
+
+- All coffess were very similar (the ones that I like), add more
+  varieties that change in the tasting aspects that we want to try.
+- Try a different roasting on the same coffee, to compare light vs
+  dark roast, for example.
+- Add a bad coffee
