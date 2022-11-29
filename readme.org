@@ -36,11 +36,11 @@ Notice that in all cases the time to first crack was more than the
 default time for the profile so I had to add more time (with the +
 button or the "C" button) while roasting.
 
-Pressing "C" after first roast gives an estimate of the time to second
-crack. *This is the most important part of the roasting*. The closer
-to second crack the darker the roast. A light roast was obtained by
-activating the cooling at about 40 seconds after the first crack. But
-this time can vary per bean type.
+Pressing "C" after the first crack gives an estimate of the time to
+second crack. *This is the most important part of the roasting*. The
+closer to second crack the darker the roast. I obtained a relatively
+light roast for all beans by activating the cooling at about 40
+seconds after the first crack. But this time can vary per bean type.
 
 If you reduce the heat right after the first crack (pressing P3 or P4
 to set the power to 50% or 75%), you can extend the time to second
@@ -49,7 +49,9 @@ time by reducing the heat after first crack, your coffee would gain in
 "sweetness" but lose in "brightness".
 
 If you are roasting a type of coffee for the first time, be at the
-machine from the time that it starts beeping for the first time.
+machine from the time that it starts beeping for the first time. Every
+coffee type is quite different and you might burn your beans if you
+are not paying attention.
 
 For more information on settings consult the [[file:behmor_manual.pdf][manual of the roaster]].
 
@@ -64,17 +66,18 @@ roasted coffee to green coffee varies per coffee type:
 | D     | 120 grams      | 103.2 grams    |                          0.86 |
 | E     | 120 grams      | 106.8 grams    |                          0.89 |
 
-This important if you will try to plan ahead for much you will
-consume. The 120 grams will make about 6.5 cups of coffee.
+This is important if you will try to plan ahead for much you will
+consume. The 120 grams that I roasted will end up making about 6.5
+cups of coffee.
 
-Coffee needs to "degas" to get a great flavor. A light roast flavor
-peaks at around 10 days after roasting. Darker roasts need to degas
-for less time. Leave the coffee not covered for at least a day after
-roasting.
+Coffee needs to "degas" after roasting. The flavor of a light roast
+coffee flavor peaks at around 10 days after roasting. Darker roasts
+need to degas for less time. Leave the coffee not covered for at least
+a day after roasting to help with the degassing process.
 
 ** Where to buy green beans
 
-- https://www.coffeebeancorral.com (20% tomorrow for Cyber Monday)
+- https://www.coffeebeancorral.com
 - https://www.sweetmarias.com/
 
 * Preparing
@@ -84,28 +87,30 @@ method (french press).
 
 Pick a ratio of coffee to water (measured by weight). I use *1:16* (it
 is on the strong side, but that's better IMO and it is easy to
-multiply 2, 4 times).
+multiply by 2, 4 times).
 
-Grind your coffee just before preparing it. The worst you can do is
-grind a bunch for a couple of days.
+Grind your coffee just before preparing it. Do not grind a bunch for a
+couple of days, the coffee will be exposed to a lot of air and lose
+most of its flavor.
 
 Water temperature does not matter (as long as it is hot), you cannot
 really burn the coffee. But you can burn your tongue, so better to
 start at around 200° Fahrenheit so that it is "cold" enough to try
-after 10 minutes brewing.
+after 10 minutes of brewing.
 
 After adding the water, be patient: let the coffee brew for about 8
 minutes before trying it. In between, around 4 minutes, I like to
-break the coffee to expose the coffee at the top to more water and so
-that the big grounds go to the bottom. You can then choose to remove
-the big grounds (more expensive grinders would have more consistency,
-so less of those) that are still floating with a spoon. Then wait
-another 4-5 minutes without touching the coffee, so that it settles.
+"break" the coffee to expose the coffee at the top to more water and
+so that the big grounds floating on top go to the bottom. You can then
+choose to remove the big grounds (more expensive grinders would have
+more consistency, so less of those) that are still floating on top
+with a spoon. Then wait another 4-5 minutes without touching the
+coffee, so that it settles.
 
 When you push the filter do it slowly and do not press it all the way,
 so that you do not mix the grounds that are on the bottom. That way
-there are less likely to end up in the coffee. For the same reason,
-pour the coffee slowly.
+there are less likely to end up in the cup. For the same reason, pour
+the coffee slowly.
 
 ** Equipment
 
@@ -241,12 +246,13 @@ samples of that one home.
 
 * Changes suggested for next event
 
-- Do the class in the morning!
+- Do the class in the morning! Way too much caffeine for a late
+  afternoon event.
 - Have one cup per coffee type for each person (as we did for this
-  event, because some people didn't show up)
+  event, because some people didn't show up).
 - All coffees were very similar (they are the style that I like), add
   more varieties that change more drastically in the tasting aspects
   that we want to try.
 - Try a different roasting on the same coffee, to compare light vs
   dark roast, for example.
-- Add a bad coffee
+- Add a bad coffee.
