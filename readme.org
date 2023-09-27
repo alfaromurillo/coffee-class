@@ -183,7 +183,7 @@ wait longer so that your coffee cools down enough to drink it.
 
 Try to look for
 
-- Bitterness: any "regular" coffee vs any coffee tried at the event
+- Bitterness:
 - Brightness (acidity): E vs F
 - Sweetness (between tart and sweet) A vs C
 - Aroma: B vs D
@@ -198,6 +198,15 @@ Try to look for
   + Earthy
   + Fruity (all)
   + Spicy (none?)
+
+
+|   | Coffee                      | Brightness | Sweetness | Aroma | Body | Complexity | Balance |                                                                                             |   |   |
+|---+-----------------------------+------------+-----------+-------+------+------------+---------+---------------------------------------------------------------------------------------------+---+---|
+| A | DR of Congo Organic Mapendo | *7*        | 5         |     4 | *3*  | 6          |       5 | https://www.coffeebeancorral.com/product/DR-Congo-Organic-Mapendo-Washed__CONGOMAPENDO.aspx |   |   |
+| B | Papua New Guinea Arokara AA |            |           |     7 |      | *7*        |         | https://www.coffeebeancorral.com/product/Papua-New-Guinea-AA-Arokara__PNGAROKA.aspx         |   |   |
+| C | Sumatra Mutu Batak          |            | *2*       |     5 | *6*  |            |         | https://www.coffeebeancorral.com/product/Sumatra-Mutu-Batak-Lintong__SUMMUTUBATAK.aspx      |   |   |
+| D | Panama Janson Farms Geisha  |            | *7*       |       |      |            |         | https://www.coffeebeancorral.com/product/Panama-Janson-Farm-Geisha-531__PANGEISHA.aspx      |   |   |
+| E | Colombia Geisha Rebel       | *3*        | 5         |     5 | 5    | *3*        |       5 | https://www.coffeebeancorral.com/product/Colombia-Geisha-Rebel-Washed__COLWASHGEISHA.aspx   |   |   |
 
 ** Coffee scores (according to Coffee Bean Corral)
 
