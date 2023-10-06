@@ -1,6 +1,6 @@
 #+TITLE: Intro to Coffee Roasting & Tasting
 
-This material is part of a [[makehaven.org][MakeHaven]] event on <2022-11-27 Sun 14:00>.
+This material is part of a [[makehaven.org][MakeHaven]] event on <2023-10-07 Sat>.
 
 In this event we will learn how to roast your own coffee beans on our
 [[https://www.makehaven.org/i/7944][Behmor Coffee Roaster]] as well as normal machine cleaning and
@@ -22,25 +22,17 @@ check-out, so you will get the badge for the Behmor at the end.
 Try to keep it simple. Vary only one variable at a time. For our
 tasting I kept all variables in the roasting the same, and just
 changed the type of bean. The time to first crack varies substantially
-per coffee type:
+per coffee type.
 
-| Label | Weight setting | Preheat | Profile used | Time to first crack | Left after first crack |
-|-------+----------------+---------+--------------+---------------------+------------------------|
-| A     | 1/4 lb         | 1 min   | P4           |               14:24 | 40 sec                 |
-| B     | 1/4 lb         | 1 min   | P4           |               11:33 | 40 sec                 |
-| C     | 1/4 lb         | 1 min   | P4           |               11:26 | 40 sec                 |
-| D     | 1/4 lb         | 1 min   | P4           |               12:50 | 40 sec                 |
-| E     | 1/4 lb         | 1 min   | P4           | 12:32 (very slight) | 40 sec                 |
-
-Notice that in all cases the time to first crack was more than the
+For all types of coffee the time to first crack was more than the
 default time for the profile so I had to add more time (with the +
-button or the "C" button) while roasting.
+button) while roasting.
 
 Pressing "C" after the first crack gives an estimate of the time to
 second crack. *This is the most important part of the roasting*. The
 closer to second crack the darker the roast. I obtained a relatively
-light roast for all beans by activating the cooling at about 40
-seconds after the first crack. But this time can vary per bean type.
+light roast for all beans by activating the cooling at about *50
+seconds* after the first crack. But this time can vary per bean type.
 
 If you reduce the heat right after the first crack (pressing P3 or P4
 to set the power to 50% or 75%), you can extend the time to second
@@ -56,19 +48,12 @@ are not paying attention.
 For more information on settings consult the [[file:behmor_manual.pdf][manual of the roaster]].
 
 The coffee loses weight after roasting, the ratio of the weight of
-roasted coffee to green coffee varies per coffee type:
-
-| Label | Initial weight | Roasted weight | weight roasted / weight green |
-|-------+----------------+----------------+-------------------------------|
-| A     | 120 grams      | 105.6 grams    |                          0.88 |
-| B     | 120 grams      | 105.6 grams    |                          0.88 |
-| C     | 120 grams      | 105.6 grams    |                          0.88 |
-| D     | 120 grams      | 103.2 grams    |                          0.86 |
-| E     | 120 grams      | 106.8 grams    |                          0.89 |
+roasted coffee to green coffee varies per coffee type, but is around
+0.85-0.9.
 
 This is important if you will try to plan ahead for much you will
-consume. The 120 grams that I roasted will end up making about 6.5
-cups of coffee.
+consume. A quarter pound roasted ends up making about 6-7 cups of
+coffee (depending on how strong the coffee is).
 
 Coffee needs to "degas" after roasting. The flavor of a light roast
 coffee flavor peaks at around 10 days after roasting. Darker roasts
@@ -89,9 +74,12 @@ Pick a ratio of coffee to water (measured by weight). I use *1:16* (it
 is on the strong side, but that's better IMO and it is easy to
 multiply by 2, 4 times).
 
-Grind your coffee just before preparing it. Do not grind a bunch for a
-couple of days, the coffee will be exposed to a lot of air and lose
-most of its flavor.
+Grind your coffee just before preparing it. I do a medium grind,
+sometimes people recommended coarse grinds for french press but they
+tend extract less coffee.
+
+Do not grind a bunch for a couple of days, the coffee will be exposed
+to a lot of air and lose most of its flavor.
 
 Water temperature does not matter (as long as it is hot), you cannot
 really burn the coffee. But you can burn your tongue, so better to
@@ -148,7 +136,7 @@ Good video: https://www.youtube.com/watch?v=bgjvLQu5NlE
   Knock Aergrind https://madebyknock.com/products/aergrind
 
 - Large, OK (but not great) for french press, fast and bottom
-  container fits mason: Hario Ceramic Coffee Mill - 'Skerton Plus'
+  container fits mason jar: Hario Ceramic Coffee Mill - 'Skerton Plus'
   https://www.hario-usa.com/products/ceramic-coffee-mill-skerton-plus
 
 - Premium, can do even espresso: Kinu M47 Classic
@@ -160,9 +148,10 @@ they will last longer.
 **** Electric grinders
 
 - Do not buy any with blades instead of burr, the grind would be very
-  inconsistent. Better a cheap hand grinder than electric grinders.
-- Entry level, same that we have at MakeHaven (OK for french press,
-  not good for espresso): Baratza Encore Coffee Mill
+  inconsistent. Better a cheap hand grinder than electric grinders
+  with blades.
+- Entry level, same as the one that we have at MakeHaven (OK for
+  french press, not good for espresso): Baratza Encore Coffee Mill
   https://www.willoughbyscoffee.com/MPS.html
 
 *** Water kettle
@@ -184,9 +173,9 @@ wait longer so that your coffee cools down enough to drink it.
 Try to look for
 
 - Bitterness:
-- Brightness (acidity): E vs F
-- Sweetness (between tart and sweet) A vs C
-- Aroma: B vs D
+- Brightness (acidity): A vs C
+- Sweetness (between tart and sweet) C vs D
+- Aroma: A vs B
 - Body: A vs D
 - Complexity/Balance
 - Flavors:
@@ -200,77 +189,96 @@ Try to look for
   + Spicy (none?)
 
 
-|   | Coffee                      | Brightness | Sweetness | Aroma | Body | Complexity | Balance |                                                                                             |   |   |
-|---+-----------------------------+------------+-----------+-------+------+------------+---------+---------------------------------------------------------------------------------------------+---+---|
-| A | DR of Congo Organic Mapendo | *7*        | 5         |     4 | *3*  | 6          |       5 | https://www.coffeebeancorral.com/product/DR-Congo-Organic-Mapendo-Washed__CONGOMAPENDO.aspx |   |   |
-| B | Papua New Guinea Arokara AA |            |           |     7 |      | *7*        |         | https://www.coffeebeancorral.com/product/Papua-New-Guinea-AA-Arokara__PNGAROKA.aspx         |   |   |
-| C | Sumatra Mutu Batak          |            | *2*       |     5 | *6*  |            |         | https://www.coffeebeancorral.com/product/Sumatra-Mutu-Batak-Lintong__SUMMUTUBATAK.aspx      |   |   |
-| D | Panama Janson Farms Geisha  |            | *7*       |       |      |            |         | https://www.coffeebeancorral.com/product/Panama-Janson-Farm-Geisha-531__PANGEISHA.aspx      |   |   |
-| E | Colombia Geisha Rebel       | *3*        | 5         |     5 | 5    | *3*        |       5 | https://www.coffeebeancorral.com/product/Colombia-Geisha-Rebel-Washed__COLWASHGEISHA.aspx   |   |   |
-
 ** Coffee scores (according to Coffee Bean Corral)
 
-| Label | Brightness | Body | Aroma | Complexity | Balance | Sweetness | Spicy | Chocolaty | Nutty  | Buttery  | Fruity  | Flowery | Wine     | Earthy |
-|-------+------------+------+-------+------------+---------+-----------+-------+-----------+--------+----------+---------+---------+----------+--------|
-| A     |          6 |    4 |     5 |          4 |       5 |         4 |       | Strong    | Strong |          | Strong  |         |          | Slight |
-| B     |          5 |    4 |     7 |          6 |       6 |         4 |       | Strong    | Strong | Strong   | Strong  | Slight  |          |        |
-| C     |          6 |    5 |     5 |          6 |       5 |         7 |       | Moderate  |        | Slight   | Strong  | Strong  |          |        |
-| D     |          6 |    7 |     4 |          6 |       4 |         7 |       |           |        | Strong   | Strong  |         | Moderate | Strong |
-| E     |          5 |    4 |     4 |          5 |       6 |         4 |       | Strong    |        |          | Strong  | Strong  |          | Strong |
-| F     |          7 |    4 |     5 |          4 |       5 |         6 |       | Moderate  | Slight | Moderate | Strong  |         |          |        |
+|   | Coffee                      | Brightness | Sweetness | Aroma | Body | Complexity | Balance | Spicy | Chocolaty | Nutty | Buttery | Fruity | Flowery | Wine | Earthy |
+|---+-----------------------------+------------+-----------+-------+------+------------+---------+-------+-----------+-------+---------+--------+---------+------+--------|
+| A | DR of Congo Organic Mapendo |        *7* |         5 |   *4* |  *3* |          6 |       5 |     ? |         ? |     ? |       ? |      ? |       ? |    ? |      ? |
+| B | Papua New Guinea Arokara AA |          5 |         3 |   *7* |    5 |        *7* |       7 |     1 |         4 |     1 |       1 |      4 |       3 |    3 |      4 |
+| C | Sumatra Mutu Batak          |        *3* |       *2* |     5 |  *6* |          6 |     *4* |     3 |         1 |     1 |       4 |      1 |       1 |    1 |      4 |
+| D | Panama Janson Farms Geisha  |          6 |       *7* |     5 |    5 |          6 |       5 |     1 |         3 |     1 |       2 |      4 |       4 |    1 |      1 |
+| E | La Gladiola Tarrazu         |          4 |         4 |     5 |    6 |        *4* |     *6* |     1 |         3 |     1 |       2 |      4 |       1 |    1 |      1 |
 
-Scale is out of 7. Coffee F was not bought for the class, it was one
-that I had roasted for myself, but it is pretty "bright" so it made
-for a good comparison. Attendants of the class did not get to take
-samples of that one home.
+The scale for Brightness, Sweetness, Aroma, Body, Complexity, and
+Balance is 1-7 (in bold, comparison during testing). For flavors the
+scale is 1-4.
 
 * Un-blinding the coffees
 
-| Label | Name                      | Origin                          | Bean type          | Height (masl) | Processing |
-|-------+---------------------------+---------------------------------+--------------------+---------------+------------|
-| A     | El Conquistador           | Costa Rica, Tarrazú             | Caturra/Catuai     |     1200-1900 | Washed     |
-| B     | Kona Extra Fancy          | Hawaii, Mauka Honaunau District | Kona               |           600 | Washed     |
-| C     | Jason Farms Geisha Washed | Panama, Volcan High Lands       | Geisha             |     1350-1700 | Washed     |
-| D     | Kintanamani               | Bali, Kintamani Highlands       | Bourbon            |     1200-1600 | Natural    |
-| E     | Konga G1                  | Ethiopia, Yirgacheffe           | Ethiopian Heirloom |     1850-2100 | Washed     |
-| F     | Finca La Esperanza        | El Salvador, Santa Ana          | Bourbon            |     1372-1500 | Washed     |
+|   | Coffee                      | Origin                              | Bean type                | Process    | Price     | Where to buy                                                                              |
+|---+-----------------------------+-------------------------------------+--------------------------+------------+-----------+-------------------------------------------------------------------------------------------|
+| A | DR of Congo Organic Mapendo | Mapendo, DR of Congo                |                          |            | ?         | No longer available                                                                       |
+| B | Arokara AA                  | Eastern Highlands, Papua New Guinea | Typica, Bourbon, Arusha  | Washed     | $7.70/lb  | https://www.coffeebeancorral.com/product/Papua-New-Guinea-AA-Arokara__PNGAROKA.aspx       |
+| C | Sumatra Mutu Batak          | Lintong, Indonesia                  | Ateng, Jember, Garundang | Wet Hulled | $8.25/lb  | https://www.coffeebeancorral.com/product/Sumatra-Mutu-Batak-Lintong__SUMMUTUBATAK.aspx    |
+| D | Janson Farms Geisha         | Volcan High Lands, Panamá           | Geisha                   | Washed     | $34.45/lb | https://www.coffeebeancorral.com/product/Panama-Janson-Farm-Geisha-531__PANGEISHA.aspx    |
+| E | La Gladiola Tarrazu         | Tarrazú, Costa Rica                 | Caturra/Catuai           | Washed     | $7.40/lb  | https://www.coffeebeancorral.com/product/Colombia-Geisha-Rebel-Washed__COLWASHGEISHA.aspx |
 
-- Costa Rica: El Conquistador, Tarrazu
+- Papua New Guinea Arokara AA
 
-  This Costa Rican coffee bean has the fruity, nutty characteristics
-  that make this region's coffees famous.
+Papua New Guinea coffees are known for their complex acidity and
+bountiful variety due to cultural and topographical diversity––few
+plantations are large, and most happen to be small plots. Processing
+methods are constantly being updated to ensure the best coffee year
+after year.
 
-- Hawaii: Kona Extra Fancy, Mauku Honaunau District
+This specific Arakara AA hails from the Arokara Cooperative, a partner
+of plantations in the Eastern Highlands of Papua, New
+Guinea. Recently, the plantations have been transferred to the
+original owners who believe in a chemical-free production process. The
+coffee’s cherry is hand-picked by the clan, immediately pulped, and
+fermented in cement vats for three days. Then, the coffee is washed
+with the Aru River’s water and sun-dried for seven to twelve days. The
+plantations hire up to 60 assistants to the clan cherry
+pickers––nearly 12,000 people depend on this process for income to
+support their families.
 
-  This is the highest grade of Kona Coffee available and produces a
-  smooth, bold, rich flavor and an aroma that is truly and utterly
-  unforgettable.
+Cupping notes: Fruit and sweet floral aroma, dark chocolate, plum,
+earthy; creamy body, winy acidity.
 
-- Panama: Janson Farms Geisha, Volcan High Lands
+- Sumatra Mutu Batak
 
-  Balanced, juicy, crisp, mild, and smooth with flavor notes of milk
-  chocolate, caramel, orange blossom, lemon, black cherry, and
-  blueberry!
+Descriptively given the Indonesian name for “quality,” this bean is
+produced in Lintongnihuta within Lake Toba’s southern shores. Workers
+prepare the Mutu Batak bean with heavy vigilance––they are completely
+sun-dried and triple-picked.
 
-- Bali: Organic Kintamani, Kintamani Highlands
+Cupping Notes: A heavy syrupy body with flavor notes of clean cedar
+and tobacco.
 
-  Lots of Body with very high acidity with notes of Strawberry,
-  Watermelon, Papaya and Cane Sugar giving it a very sweet taste.
+- Panama Janson Farms Geisha
 
-- Ethiopia: Organic Konga G1, Yirgacheffe
+This Panama Geisha comes from the Janson Coffee Farm which is located
+in the Talamanca Mountain Range near the Tisingal and Baru volcanoes
+in Volcan, Panama. It is a family owned Hacienda that was established
+in 1941 by Carl Axel Janson. The farm's main focus is quality
+production. No pesticides, no herbicides! The balance of nutrients in
+the soil comes from using enzyme micro organisms. This farm is
+committed to improve and protect the environment by using solar panels
+to produce the energy for the farm, reusing all excess matter from
+processing for fuel and fertilizer, and seeds from the forests are
+planted in the nursery for reforestation and protection of water
+resources. Natural spring water is used for their Washed processing.
 
-  The Ethiopian Yirgacheffe has floral and fruit notes like pear and
-  citrus and sweet honey.
+The Janson's processing plant was built in 1993. It was designed
+specifically for specialty coffee. They do Natural and Washed
+processing with updated technology added to artisanal methods to
+achieve the quality you will experience in this delicious bean!
 
-- El Salvador: Finca La Esperanza, Santa Ana
+Cupping notes: Balanced, juicy, crisp, mild, and smooth with flavor
+notes of milk chocolate, caramel, orange blossom, lemon, black cherry
 
-  Brown sugar, cherry, and green apple with hints of chocolate and a
-  high acidity, medium body, and above average sweetness.
+- Costa Rica La Gladiola Tarrazu
+
+The fruit that comprises La Gladiola comes from the Western portion of
+the Tarrazu valley. The fruit is purchased from specific farmers,
+process it at La Minita's mill, Beneficio del Rio Tarrazu and kept
+separate from their other trademark coffee beans.
+
+Cupping Notes: Wonderful acidity, good body with some citrus and cocoa
+notes.
 
 * Changes suggested for next event
 
-- Do the class in the morning! Way too much caffeine for a late
-  afternoon event.
 - Have one cup per coffee type for each person (as we did for this
   event, because some people didn't show up).
 - All coffees were very similar (they are the style that I like), add
