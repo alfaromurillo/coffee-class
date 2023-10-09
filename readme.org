@@ -185,19 +185,19 @@ Try to look for
   + Flowery
   + Wine
   + Earthy
-  + Fruity (all)
-  + Spicy (none?)
+  + Fruity
+  + Spicy
 
 
 ** Coffee scores (according to Coffee Bean Corral)
 
-|   | Coffee                      | Brightness | Sweetness | Aroma | Body | Complexity | Balance | Spicy | Chocolaty | Nutty | Buttery | Fruity | Flowery | Wine | Earthy |
-|---+-----------------------------+------------+-----------+-------+------+------------+---------+-------+-----------+-------+---------+--------+---------+------+--------|
-| A | DR of Congo Organic Mapendo |        *7* |         5 |   *4* |  *3* |          6 |       5 |     ? |         ? |     ? |       ? |      ? |       ? |    ? |      ? |
-| B | Papua New Guinea Arokara AA |          5 |         3 |   *7* |    5 |        *7* |       7 |     1 |         4 |     1 |       1 |      4 |       3 |    3 |      4 |
-| C | Sumatra Mutu Batak          |        *3* |       *2* |     5 |  *6* |          6 |     *4* |     3 |         1 |     1 |       4 |      1 |       1 |    1 |      4 |
-| D | Panama Janson Farms Geisha  |          6 |       *7* |     5 |    5 |          6 |       5 |     1 |         3 |     1 |       2 |      4 |       4 |    1 |      1 |
-| E | La Gladiola Tarrazu         |          4 |         4 |     5 |    6 |        *4* |     *6* |     1 |         3 |     1 |       2 |      4 |       1 |    1 |      1 |
+|   | Brightness | Sweetness | Aroma | Body | Complexity | Balance | Spicy | Chocolaty | Nutty | Buttery | Fruity | Flowery | Wine | Earthy |
+|---+------------+-----------+-------+------+------------+---------+-------+-----------+-------+---------+--------+---------+------+--------|
+| A |        *7* |         5 |   *4* |  *3* |          6 |       5 |     ? |         ? |     ? |       ? |      ? |       ? |    ? |      ? |
+| B |          5 |         3 |   *7* |    5 |        *7* |       7 |     1 |         4 |     1 |       1 |      4 |       3 |    3 |      4 |
+| C |        *3* |       *2* |     5 |  *6* |          6 |     *4* |     3 |         1 |     1 |       4 |      1 |       1 |    1 |      4 |
+| D |          6 |       *7* |     5 |    5 |          6 |       5 |     1 |         3 |     1 |       2 |      4 |       4 |    1 |      1 |
+| E |          4 |         4 |     5 |    6 |        *4* |     *6* |     1 |         3 |     1 |       2 |      4 |       1 |    1 |      1 |
 
 The scale for Brightness, Sweetness, Aroma, Body, Complexity, and
 Balance is 1-7 (in bold, comparison during testing). For flavors the
